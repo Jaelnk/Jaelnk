@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaelnk
-- 👀 I’m interested in learning desarrollo web
+- 👀 I’m interested in learning web development
 - 🌱 I’m currently learning diseño de interfaces y desarrollo web
 
 - 📫 How to reach me jhaelnicolalde_9c@hotmail.com
